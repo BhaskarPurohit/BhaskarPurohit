@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Developer || React Js || Front End <br>🔭 I'm currently working on an E-commerce Application<br>👯‍♂️ I'm looking to collaborate on AWS <br>🤝 I'm looking for help with AWS and Kubernetes<br>🌱I'm currently learning TypeScript<br>💬Ask me about React Js and Front End<br>⚡Fun Fact: I am probably caffeinated right now.
+MERN Stack Developer || React Js || Front End || Node JS || Backend <br>🔭 I'm currently working on an E-commerce Application<br>👯‍♂️ I'm looking to collaborate on AWS <br>🤝 I'm looking for help with AWS and Kubernetes<br>🌱I'm currently learning TypeScript<br>💬Ask me about React Js and Front End<br>⚡Fun Fact: I am probably caffeinated right now.
 
 
 ## 🌐 Socials:
